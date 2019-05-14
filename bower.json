@@ -1,10 +1,10 @@
 {
-  "name": "react-tagsinput",
+  "name": "react-tagsinput-newest",
   "main": [
     "react-tagsinput.js",
     "react-tagsinput.css"
   ],
-  "version": "3.19.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/olahol/react-tagsinput",
   "description": "Highly customizable React component for inputing tags",
   "keywords": [

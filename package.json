@@ -1,6 +1,6 @@
 {
-  "name": "react-tagsinput",
-  "version": "3.19.0",
+  "name": "react-tagsinput-newest",
+  "version": "1.0.0",
   "description": "Highly customizable React component for inputing tags",
   "main": "react-tagsinput.js",
   "peerDependencies": {
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/olahol/react-tagsinput"
+    "url": "git+https://github.com/olahol/react-tagsinput.git"
   },
   "keywords": [
     "react",
@@ -57,5 +57,9 @@
   "standard": {
     "parser": "babel-eslint"
   },
-  "homepage": "https://github.com/olahol/react-tagsinput"
+  "homepage": "https://github.com/olahol/react-tagsinput",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  }
 }
